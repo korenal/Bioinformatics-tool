@@ -44,7 +44,8 @@ kde máte výběr možností, které tato aplikace umí, vyberte si jednu a pokr
 1. Výpis atomů v reziduích
 1. Souhrnné informace o struktuře (počet modelů, struktur, reziduí, atomů)
 1. Šířka struktury (maximální vzdálenost libovolných dvou atomů)
-1. Výpis HETATM atomů
+1. Výpis atomů, které jsou od vybraného ligandu maximálně vzdáleny o Vámi zadanou vzdálenost
+    - zde se zobrazí tabulka, do které je potřeba napsat Vámi zvolenou vzdálenost a číslo ligandu
 
 ### 5. Processing multiple sequence alignment
 * Zobrazí se dialogové okno a požádá Vás o nahrání souboru, který je v CLUSTAL formátu (př. Clustal_file.txt)
