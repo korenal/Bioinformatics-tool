@@ -18,6 +18,7 @@ Tato aplikace jde spustit pomocí jakéhokoliv programovacího prostředí podpo
 
 ## Použití aplikace
 Po spuštění aplikace se Vám zobrazí následující GUI uživatelské rozhraní:
+![Uživatelské rozhraní](https://github.com/korenal/Bioinformatics-tool/blob/master/Bioinformatics_tool_user.png)
 
 kde máte výběr možností, které tato aplikace umí, vyberte si jednu a pokračujte dál pomocí stisknutí tlačítka "OK".
 
