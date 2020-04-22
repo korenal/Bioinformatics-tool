@@ -58,6 +58,8 @@ kde máte výběr možností, které tato aplikace umí, vyberte si jednu a pokr
 ### 6. Conservation determination from MSA
 * Zobrazí se dialogové okno a požádá Váas o nahrání souboru, který je v CLUSTAL formátu (př. Clustal_file.txt)
 * Zobrazí se dialogové okno a požádá Vás o nahrání souboru se skórovací maticí (kde jsou jednotlivé skórovací hodnoty oddělené znakem středníku (';'))(př. BLUSOM62.txt, BLUSOM90.txt, PAM10.txt, PAM250.txt)  
-* Program vypíše sloupce z MSA, které mají nejvyšší skóre
+* Program vypíše consensus sekvenci MSA a sloupce z MSA, které mají nejvyšší skóre
 
 ### 7. 
+
+
