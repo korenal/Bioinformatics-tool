@@ -53,11 +53,11 @@ kde máte výběr možností, které tato aplikace umí, vyberte si jednu a pokr
 1. Výpis sekvence na základě její pozice v MSA nebo ID
 1. Výpis Vámi zadaného sloupce z MSA
 1. Výpis PS celého MSA
-    - zde se zobrazí dialogové okno a požádá Vás o nahrání souboru se skórovací maticí, kde jsou jednotlivé skórovací hodnoty oddělené znakem středníku (';') (př. BLUSOM62.txt, BLUSOM90.txt, PAM10.txt, PAM250.txt)
+    - zde se zobrazí dialogové okno a požádá Vás o nahrání souboru se skórovací maticí, kde jsou jednotlivé skórovací hodnoty oddělené znakem středníku (';') (př. BLUSOM62.txt, BLUSOM90.txt, PAM10.txt)
 
 ### 6. Conservation determination from MSA
 * Zobrazí se dialogové okno a požádá Váas o nahrání souboru, který je v CLUSTAL formátu (př. Clustal_file.txt)
-* Zobrazí se dialogové okno a požádá Vás o nahrání souboru se skórovací maticí (kde jsou jednotlivé skórovací hodnoty oddělené znakem středníku (';'))(př. BLUSOM62.txt, BLUSOM90.txt, PAM10.txt, PAM250.txt)  
+* Zobrazí se dialogové okno a požádá Vás o nahrání souboru se skórovací maticí (kde jsou jednotlivé skórovací hodnoty oddělené znakem středníku (';'))(př. BLUSOM62.txt, BLUSOM90.txt, PAM10.txt)  
 * Program vypíše consensus sekvenci MSA a sloupce z MSA, které mají nejvyšší skóre
 
 ### 7. Computing structure-related properties
