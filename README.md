@@ -60,6 +60,13 @@ kde máte výběr možností, které tato aplikace umí, vyberte si jednu a pokr
 * Zobrazí se dialogové okno a požádá Vás o nahrání souboru se skórovací maticí (kde jsou jednotlivé skórovací hodnoty oddělené znakem středníku (';'))(př. BLUSOM62.txt, BLUSOM90.txt, PAM10.txt, PAM250.txt)  
 * Program vypíše consensus sekvenci MSA a sloupce z MSA, které mají nejvyšší skóre
 
-### 7. 
-
+### 7. Computing structure-related properties
+* Zobrazí se dialogové okno a požádá Vás o nahrání souboru, který je v PDB formátu (př: pdb_input.pdb)
+* Zde máte na výběr:
+1. Výpočet průměru proteinu
+1. Výpočet poměru povrchových a vnitřních aminokyselin
+1. Data sloužící pro tvorbu histogramu (pro povrchové a vnitřní aminokyseliny)
+1. Výpočet počtu polárních aminokyselin u povrchových a vnitřních aminokyselin
+1. Porovnání Vámi zadaných dvou PDB souborů (počty povrchových a vnitřních aminokyselin, počty polárních aminokyselin)
+    - zde se zobrazí dialogové okno a požádá Vás o nahrání druhého PDB souboru (př. pdb_input2.pdb) a zobrazí Vám dané statistiky povrchových a vnitřních aminokyselin
 
