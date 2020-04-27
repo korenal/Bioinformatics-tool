@@ -8,7 +8,7 @@ Tato bioiformatická aplikace obsahuje základní metody z oblasti sekvenační 
 * Parsování PDB souboru
 * Zpracování Multiple sequence alignmentu
 * Určení konzervovaných oblastí v Multiple sequence alignmentu
-* Určování superpozice
+* Výpočet vlastností související se strukturou
 
 ## Download
 Pomocí git clone http://github.com/korenal/    si stáhnete tento projekt
