@@ -11,7 +11,7 @@ Tato bioiformatická aplikace obsahuje základní metody z oblasti sekvenační 
 * Výpočet vlastností související se strukturou
 
 ## Download
-Pomocí git clone https://github.com/korenal/Bioinformatics-tool/blob/master/Bioinformatic_tools.py si stáhnete tento projekt
+Pomocí git clone https://github.com/korenal/Bioinformatics-tool/blob/master/Bioinformatics_tools.py si stáhnete tento projekt
 
 ## Požadavky
 Tato aplikace jde spustit pomocí jakéhokoliv programovacího prostředí podporující Python 3.7
